@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family: 'Cursive', 'Lucida Handwriting', 'Brush Script MT', cursive;
+    background-color: #f7f7f7;
+}
+
+.container {
+    text-align: center;
+    margin: 100px;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #007bff;
+    font-size: 36px;
+}
+
+p {
+    font-size: 18px;
+    color: #333;
+    line-height: 1.6;
+}
+
+.special-image {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+
+.youtube-link {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #ff0000;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
